@@ -1,0 +1,89 @@
+# Note-3-cyanogenmod-installieren
+
+ALLE DATEIEN GEHEN DABEI VERLOREN! SICHERE SIE!
+
+
+0.0 DOWNLOADS
+    Speichere (und entpacke) die folgenden Daten am besten auf deinem Desktop:
+  
+      http://www.file-upload.net/download-11336807/Odin_v3.09.zip.html
+  
+      http://www.file-upload.net/download-11336851/CF-Auto-Root-hlte-hltexx-smn9005.zip.html
+
+
+1.0 VORBEREITEN  ( Video: https://www.youtube.com/watch?v=c9NqcBRpfAs )
+
+1.1 Öffne Odin3 mit Administratorrechten, klicke auf den Knopf " AP " 
+    und wähle aus dem gedownloadeten Ordner die " .tar.md5 " -Datei aus.
+
+1.2 Schalte (wenn noch nicht getan) das Note 3 aus
+
+1.3 Versetze das Note 3 in den Odin3 - Modus, in dem du (lange) gleichzeitig die folgenden Tasten drückst:
+    - Lautstärke nach unten
+    - Home-Button
+    - Ein/Aus Knopf
+    Bestätige dies mit einem druck aud Lautstärke nach oben
+   
+1.4 Schließe das Note 3 jetzt mit dem USB-Kabel an den PC an und WARTE BIS ALLE TREIBER INSTALLIERT SIND!
+    (wenn in Odin3 im Fenster Messages " Added " steht, kannst du zu 2.0 springen)
+
+
+2.0 ROOTEN
+
+2.1 Kicke nun auf " Start " und warte, bis das Note3 neu startet (dann kann auch das USB-Kabel abgezogen werden)
+
+2.2 Nun werden die Dateien installiert (bitte warte)
+
+2.2 Dein Note3 ist nun gerootet
+
+
+3.0 RECOVERY AUFSPIELEN
+
+3.1 Downloade nun diese Datei:
+    
+	 http://www.file-upload.net/download-11336984/twrp-3.0.0-0-hltespr.img.tar.html
+
+3.2 Bringe dein Note3 wieder in den Odin - Modus (wie in Schritt 1.3 gezeigt) und starte Odin3
+
+3.3 Wähle nun wieder mit einem Klick auf den Button " AP " die zuvor gedownloadete Datei (nicht entpackt!) aus
+
+3.4 Schließe nun wieder das Note3 an den PC an und drücke wieder auf " Start " und warte, bis das Note3 neu startet...
+
+3.5 Schalte das Note3 nun nicht aus!
+
+
+4.0 CYANOGENMOD INSTALLIEREN (Video: https://www.youtube.com/watch?v=ix7rrKS4keI )
+
+4.1 Downloade die folgende Datei:
+
+	 https://download.cyanogenmod.org/get/hlte-latest.zip
+
+4.2 Kopiere diese Dateie (nicht entpackt!) auf das Note3
+
+4.3 Schlate das Note3 nun aus
+
+4.4 Versetze das Note 3 in den Recovery - Modus, in dem du (lange) gleichzeitig die folgenden Tasten drückst:
+    - Lautstärke nach oben
+    - Home-Button
+    - Ein/Aus Knopf
+	
+4.5 Nun sollte nach einigen Sekunden warten eine Oberfläche mit 8 Schaltflächen erscheinen.
+
+4.6 Klicke nun auf " Install " und wähle die zuvor auf das Note3 kopierte Datei aus
+
+4.7 nun musst du nurnoch unten von links nach rechts swipen
+
+4.8 klicke nun auf " Reboot System "
+
+4.9 warte bis das Note3 neu gestartet ist
+
+
+5.0 GOOGLE APPS INSTALLIEREN
+
+5.1 Gehe nun auf die folgende Seite und wähle die gewünschte Variante:
+     
+     http://opengapps.org/?api=5.1&variant=pico
+     
+5.2 Kopiere nun diese Datei (nicht entpackt!) auf das Note3 und wiederhole die Schritte 4.3 bis 4.9 mit der zuletzt gedownloadeten Datei
+
+5.3 Nun kannst du dich wieder an die Arbeit machen deine Dateien und Apps wiederher zu stellen
